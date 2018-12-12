@@ -1,7 +1,7 @@
 .ipynb_checkpoints/
 *checkpoint.ipynb
-babyname
-pytdata-book
-usagov
-examples
-datasets
+babyname/
+pytdata-book/
+usagov/
+examples/
+datasets/
